@@ -1,0 +1,10 @@
+.vscode/
+__pycache__/
+*.csv
+render.txt
+venv/
+graphreward.png
+Dockerfile
+.dockerignore
+docker-compose.yml
+*.zip
